@@ -8,14 +8,14 @@
 
 ## About me 🤘
 - Based in `Timisoara, Romania` 🇷🇴
-- **Student** at the `"Grigore Moisil" Theoretical Highschool`
+- **Bachelor's degree 28'** @ Faculty of Automation and Computer Science, UPT
 - 🌱 Currently learning `Machine Learning, Data Science`
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@vladtomici)
 - 📫 If you want to reach me out: **vladtommici@gmail.com**
 
 ## About my activity 💪
 - 🔭 Computer Vision developer
-- 🦉 **Head of the Programming Department** & **Ex-Team Leader** of the `WizzTech` 19094 FIRST Tech Challenge Team
+- 🦉 **Ex-Team Leader** of the `WizzTech` 19094 FIRST Tech Challenge Team
 - ☯️ **Champion** and **Mentor** at `CoderDojo Robotics Timisoara`
 - ☀️ Active **Trainer** and **Debater** of the `Solaris Debate Club`
 
