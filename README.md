@@ -39,7 +39,7 @@ src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username
 ## Technologies used 👨‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,kotlin,tensorflow,raspberrypi,arduino,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,kotlin,tensorflow,raspberrypi,arduino,linux,swift" />
   </a>
 </p>
 <!--- stats (end) -->
@@ -51,4 +51,4 @@ src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username
   
 </div>
 
-Last edited on: `14.09.2023`
+Last edited on: `15.10.2024`
