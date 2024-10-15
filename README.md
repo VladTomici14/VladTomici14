@@ -39,7 +39,7 @@ src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username
 ## Technologies used 👨‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,kotlin,tensorflow,raspberrypi,arduino,linux,swift" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,java,swift,kotlin,tensorflow,raspberrypi,linux" />
   </a>
 </p>
 <!--- stats (end) -->
