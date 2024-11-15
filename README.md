@@ -14,10 +14,10 @@
 - 📫 If you want to reach me out: **vladtommici@gmail.com**
 
 ## About my activity 💪
-- 🔭 Computer Vision developer
-- 🦉 **Ex-Team Leader** of the `WizzTech` 19094 FIRST Tech Challenge Team
-- ☯️ **Champion** and **Mentor** at `CoderDojo Robotics Timisoara`
-- ☀️ Active **Trainer** and **Debater** of the `Solaris Debate Club`
+- 🔭 Computer Vision & Python freelancing
+- 🦉 **Mentor** @ `WizzTech` 19094 FIRST Tech Challenge Team
+- ☯️ **Champion** @ `CoderDojo Timisoara`
+- ☀️ **Trainer**  @ `Solaris Debate Club`
 
 ## Stats 📊
 <p align="center">
